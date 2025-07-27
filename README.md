@@ -1,4 +1,4 @@
-# Facebook_Clone
+# Facebook_Login_Clone
 
 This project is a simple clone of the Facebook login page built with HTML, CSS, JavaScript, and TypeScript. It serves as an educational project aimed at replicating the user interface of Facebook's login screen and footer sections while focusing on layout, responsiveness, and styling.
 
